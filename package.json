@@ -1,5 +1,5 @@
 {
-    "name": "gogoanime-api",
+    "name": "WhiteAPI",
     "version": "1.0.0",
     "description": "Anime Streaming, Discovery API made with Cheerio and Express. Uses data from Gogoanime",
     "main": "src/anime_parser.js",
@@ -17,7 +17,7 @@
         "api",
         "gogoanime"
     ],
-    "author": "https://github.com/riimuru",
+    "author": "https://github.com/KunalG932",
     "license": "ISC",
     "dependencies": {
         "axios": "^1.1.2",
